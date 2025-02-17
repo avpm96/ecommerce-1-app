@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic White T-Shirt",
+      "description": "A comfortable and versatile white t-shirt made from 100% cotton",
+      "type": "female",
+      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "price": 29.99,
+      "image": "white-tshirt"
+    },
+    {
+      "id": 2, 
+      "name": "Floral Summer Dress",
+      "description": "Beautiful floral print dress perfect for summer occasions",
+      "type": "female",
+      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "price": 59.99,
+      "image": "floral-summer"
+    },
+    {
+      "id": 3,
+      "name": "Slim Fit Jeans",
+      "description": "Classic blue slim fit jeans with stretch comfort",
+      "type": "male",
+      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "price": 79.99,
+      "image": "jean-male"
+    },
+    {
+      "id": 4,
+      "name": "Leather Jacket",
+      "description": "Premium leather jacket with quilted lining",
+      "type": "male",
+      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "price": 199.99,
+      "image": "leather-jacket"
+    },
+    {
+      "id": 5,
+      "name": "Silk Blouse",
+      "description": "Elegant silk blouse with button-up front",
+      "type": "female", 
+      "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+      "price": 89.99,
+      "image": "silk-blouse"
+    }
+  ]
+}

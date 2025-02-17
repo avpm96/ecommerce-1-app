@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function ProductDetail() {
+export default function HeaderProduct() {
   return (
     <View>
-      <Text>ProductDetail</Text>
+      <Text>HeaderProduct</Text>
     </View>
   )
 }
